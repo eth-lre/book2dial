@@ -1,6 +1,7 @@
 # 📖 Book2dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots
 
 [ACL 2024 Findings paper](https://aclanthology.org/2024.findings-acl.578/)
+
 [ACL 2024 Video](https://www.youtube.com/watch?v=l1QCl7ENnWU)
 
 
