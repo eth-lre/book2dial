@@ -1,0 +1,216 @@
+{
+    "data": [
+        {
+            "title": "1-1-physics-definitions-and-applications",
+            "paragraphs": [
+                {
+                    "context": "Think about all of the technological devices that you use on a regular basis. Computers, wireless internet, smart phones, tablets, global positioning system (GPS), MP3 players, and satellite radio might come to mind. Next, think about the most exciting modern technologies that you have heard about in the news, such as trains that levitate above their tracks, invisibility cloaks that bend light around them, and microscopic robots that fight diseased cells in our bodies. All of these groundbreaking advancements rely on the principles of physics.\n\nPhysics is a branch of science. The word science comes from a Latin word that means having knowledge, and refers the knowledge of how the physical world operates, based on objective evidence determined through observation and experimentation. A key requirement of any scientific explanation of a natural phenomenon is that it must be testable; one must be able to devise and conduct an experimental investigation that either supports or refutes the explanation. It is important to note that some questions fall outside the realm of science precisely because they deal with phenomena that are not scientifically testable. This need for objective evidence helps define the investigative process scientists follow, which will be described later in this chapter.\n\nPhysics is the science aimed at describing the fundamental aspects of our universe. This includes what things are in it, what properties of those things are noticeable, and what processes those things or their properties undergo. In simpler terms, physics attempts to describe the basic mechanisms that make our universe behave the way it does. For example, consider a smart phone. Physics describes how electric current interacts with the various circuits inside the device. This knowledge helps engineers select the appropriate materials and circuit layout when building the smart phone. Next, consider a GPS. Physics describes the relationship between the speed of an object, the distance over which it travels, and the time it takes to travel that distance. When you use a GPS device in a vehicle, it utilizes these physics relationships to determine the travel time from one location to another.\n\nAs our technology evolved over the centuries, physics expanded into many branches. Ancient peoples could only study things that they could see with the naked eye or otherwise experience without the aid of scientific equipment. This included the study of kinematics, which is the study of moving objects. For example, ancient people often studied the apparent motion of objects in the sky, such as the sun, moon, and stars. This is evident in the construction of prehistoric astronomical observatories, such as Stonehenge in England (shown in Figure 1.3). \n\nAncient people also studied statics and dynamics, which focus on how objects start moving, stop moving, and change speed and direction in response to forces that push or pull on the objects. This early interest in kinematics and dynamics allowed humans to invent simple machines, such as the lever, the pulley, the ramp, and the wheel. These simple machines were gradually combined and integrated to produce more complicated machines, such as wagons and cranes. Machines allowed humans to gradually do more work more effectively in less time, allowing them to create larger and more complicated buildings and structures, many of which still exist today from ancient times.\n\nAs technology advanced, the branches of physics diversified even more. These include branches such as acoustics, the study of sound, and optics, the study of the light. In 1608, the invention of the telescope by a Germany spectacle maker, Hans Lippershey, led to huge breakthroughs in astronomy\u2014the study of objects or phenomena in space. One year later, in 1609, Galileo Galilei began the first studies of the solar system and the universe using a telescope. During the Renaissance era, Isaac Newton used observations made by Galileo to construct his three laws of motion. These laws were the standard for studying kinematics and dynamics even today.\n\nAnother major branch of physics is thermodynamics, which includes the study of thermal energy and the transfer of heat. James Prescott Joule, an English physicist, studied the nature of heat and its relationship to work. Joule\u2019s work helped lay the foundation for the first of three laws of thermodynamics that describe how energy in our universe is transferred from one object to another or transformed from one form to another. Studies in thermodynamics were motivated by the need to make engines more efficient, keep people safe from the elements, and preserve food.\n\nThe 18th and 19th centuries also saw great strides in the study of electricity and magnetism. Electricity involves the study of electric charges and their movements. Magnetism had long ago been noticed as an attractive force between a magnetized object and a metal like iron, or between the opposite poles (North and South) of two magnetized objects. In 1820, Danish physicist Hans Christian Oersted showed that electric currents create magnetic fields. In 1831, English inventor Michael Faraday showed that moving a wire through a magnetic field could induce an electric current. These studies led to the inventions of the electric motor and electric generator, which revolutionized human life by bringing electricity and magnetism into our machines.\n\nThe end of the 19th century saw the discovery of radioactive substances by the scientists Marie and Pierre Curie. Nuclear physics involves studying the nuclei of atoms, the source of nuclear radiation. In the 20th century, the study of nuclear physics eventually led to the ability to split the nucleus of an atom, a process called nuclear fission. This process is the basis for nuclear power plants and nuclear weapons. Also, the field of quantum mechanics, which involves the mechanics of atoms and molecules, saw great strides during the 20th century as our understanding of atoms and subatomic particles increased (see below).\n\nEarly in the 20th century, Albert Einstein revolutionized several branches of physics, especially relativity. Relativity revolutionized our understanding of motion and the universe in general as described further in this chapter. Now, in the 21st century, physicists continue to study these and many other branches of physics.\n\nBy studying the most important topics in physics, you will gain analytical abilities that will enable you to apply physics far beyond the scope of what can be included in a single book. These analytical skills will help you to excel academically, and they will also help you to think critically in any career you choose to pursue.",
+                    "id": "C_613901_1"
+                }
+            ],
+            "section_title": "What Physics Is",
+            "chapter_learning_objectives": [
+                "Describe the definition, aims, and branches of physics",
+                "Describe and distinguish classical physics from modern physics and describe the importance of relativity, quantum mechanics, and relativistic quantum mechanics in modern physics",
+                "Describe how aspects of physics are used in other sciences (e.g., biology, chemistry, geology, etc.) as well as in everyday technology"
+            ],
+            "chapter_summary": "Physics is the most fundamental of the sciences, concerning itself with energy, matter, space and time, and their interactions.  Modern physics involves the theory of relativity, which describes how time, space and gravity are not constant in our universe can be different for different observers, and quantum mechanics, which describes the behavior of subatomic particles. Physics is the basis for all other sciences, such as chemistry, biology and geology, because physics describes the fundamental way in which the universe functions. ",
+            "chapter_introduction": "",
+            "bold_terms": [
+                "physics",
+                "atoms",
+                "quantum mechanics",
+                "classical physics",
+                "modern physics",
+                "theory of relativity"
+            ],
+            "chapter_concept": [
+                {
+                    "name": "accuracy ",
+                    "description": "how close a measurement is to the correct value for that measurement"
+                },
+                {
+                    "name": "ampere",
+                    "description": " the SI unit for electrical current"
+                },
+                {
+                    "name": "atom",
+                    "description": "smallest and most basic units of matter"
+                },
+                {
+                    "name": "base quantity",
+                    "description": " physical quantity chosen by convention and practical considerations such that all other physical quantities can be expressed as algebraic combinations of them"
+                },
+                {
+                    "name": "base unit",
+                    "description": " standard for expressing the measurement of a base quantity within a particular system of units; defined by a particular procedure used to measure the corresponding base quantity"
+                },
+                {
+                    "name": "classical physics",
+                    "description": "physics, as it developed from the Renaissance to the end of the nineteenth century"
+                },
+                {
+                    "name": "constant",
+                    "description": " a quantity that does not change"
+                },
+                {
+                    "name": "conversion factor",
+                    "description": " a ratio expressing how many of one unit are equal to another unit"
+                },
+                {
+                    "name": "dependent variable",
+                    "description": " the vertical, or y-axis, variable, which changes with (or is dependent on) the value of the independent variable"
+                },
+                {
+                    "name": "derived quantity",
+                    "description": " physical quantity defined using algebraic combinations of base quantities"
+                },
+                {
+                    "name": "derived units ",
+                    "description": "units that are derived by combining the fundamental physical units "
+                },
+                {
+                    "name": "experiment",
+                    "description": "process involved with testing a hypothesis"
+                },
+                {
+                    "name": "exponential relationship",
+                    "description": " relation between variables in which a constant change in the independent variable is accompanied by change in the dependent variable that is proportional to the value it already had"
+                },
+                {
+                    "name": "fundamental physical units",
+                    "description": " the seven fundamental physical units in the SI system of units are length, mass, time, electric current, temperature, amount of a substance, and luminous intensity"
+                },
+                {
+                    "name": "hypothesis",
+                    "description": "testable statement that describes how something in the natural world works"
+                },
+                {
+                    "name": "independent variable ",
+                    "description": "the horizontal, or x-axis, variable, which is not influence by the second variable on the graph, the dependent variable "
+                },
+                {
+                    "name": "inverse proportionality ",
+                    "description": "a relation between two variables expressible by an equation of the form  $$\\(y = k/x\\)$$  where k stays constant when x and y change; the special form of inverse relationship that satisfies this equation"
+                },
+                {
+                    "name": "inverse relationship ",
+                    "description": "any relation between variables where one variable decreases as the other variable increases"
+                },
+                {
+                    "name": "kilogram",
+                    "description": " the SI unit for mass, abbreviated (kg)"
+                },
+                {
+                    "name": "linear relationships",
+                    "description": " relation between variables that produce a straight line when graphed "
+                },
+                {
+                    "name": "log-log plot ",
+                    "description": "a plot that uses a logarithmic scale in both axes "
+                },
+                {
+                    "name": "logarithmic scale ",
+                    "description": "a graphing scale in which each tick on an axis is the previous tick multiplied by some value"
+                },
+                {
+                    "name": "meter",
+                    "description": " the SI unit for length, abbreviated (m)"
+                },
+                {
+                    "name": "method of adding percents",
+                    "description": " calculating the percent uncertainty of a quantity in multiplication or division by adding the percent uncertainties in the quantities being added or divided"
+                },
+                {
+                    "name": "model",
+                    "description": "system that is analogous to the real system of interest in essential ways but more easily analyzed"
+                },
+                {
+                    "name": "modern physics",
+                    "description": "physics as developed from the twentieth century to the present, involving the theories of relativity and quantum mechanics"
+                },
+                {
+                    "name": "observation",
+                    "description": "step where a scientist observes a pattern or trend within the natural world"
+                },
+                {
+                    "name": "order of magnitude",
+                    "description": " the size of a quantity in terms of its power of 10 when expressed in scientific notation"
+                },
+                {
+                    "name": "physics",
+                    "description": "science aimed at describing the fundamental aspects of our universe\u2014energy, matter, space, motion, and time"
+                },
+                {
+                    "name": "precision",
+                    "description": " how well repeated measurements generate the same or closely similar results"
+                },
+                {
+                    "name": "principle",
+                    "description": "description of nature that is true in many, but not all situations"
+                },
+                {
+                    "name": "quadratic relationship",
+                    "description": " relation between variables that can be expressed in the form  $$\\(y = ax^{2} + bx + c\\)$$, which produces a curved line when graphed "
+                },
+                {
+                    "name": "quantum mechanics",
+                    "description": "major theory of modern physics which describes the properties and nature of atoms and their subatomic particles"
+                },
+                {
+                    "name": "science",
+                    "description": "the study or knowledge of how the physical world operates, based on objective evidence determined through observation and experimentation"
+                },
+                {
+                    "name": "scientific law",
+                    "description": "pattern in nature that is true in all circumstances studied thus far"
+                },
+                {
+                    "name": "scientific methods",
+                    "description": "techniques and processes used in the constructing and testing of scientific hypotheses, laws, and theories, and in deciding issues on the basis of experiment and observation"
+                },
+                {
+                    "name": "scientific notation",
+                    "description": " way of writing numbers that are too large or small to be conveniently written in simple decimal form; the measurement is multiplied by a power of 10, which indicates the number of placeholder zeros in the measurement "
+                },
+                {
+                    "name": "second",
+                    "description": " the SI unit for time, abbreviated (s)"
+                },
+                {
+                    "name": "semi-log plot ",
+                    "description": "A plot that uses a logarithmic scale on one axis of the graph and a linear scale on the other axis. "
+                },
+                {
+                    "name": "significant figures",
+                    "description": " when writing a number, the digits, or number of digits, that express the precision of a measuring tool used to measure the number"
+                },
+                {
+                    "name": "slope",
+                    "description": " the ratio of the change of a graph on the y axis to the change along the x-axis, the value of m in the equation of a line,  $$\\(y = mx + b\\)$$ "
+                },
+                {
+                    "name": "theory",
+                    "description": "explanation of patterns in nature that is supported by much scientific evidence and verified multiple times by various groups of researchers"
+                },
+                {
+                    "name": "theory of relativity",
+                    "description": "theory constructed by Albert Einstein which describes how space, time and energy are different for different observers in relative motion"
+                },
+                {
+                    "name": "uncertainty",
+                    "description": " a quantitative measure of how much measured values deviate from a standard or expected value"
+                },
+                {
+                    "name": "universal",
+                    "description": "applies throughout the known universe"
+                },
+                {
+                    "name": "y-intercept",
+                    "description": "the point where a plot line intersects the y-axis"
+                }
+            ]
+        }
+        
+    ]
+}
