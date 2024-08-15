@@ -77,7 +77,7 @@ Please note that each row in the file consists of full conversations between a t
 pip3 install ./requirements.txt
 ```
 
-### Dialogue generation
+### Step 3: Dialogue generation
 Change the input path within Persona_high_info_final.py and run following:
 
 ```python
