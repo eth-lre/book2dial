@@ -30,7 +30,7 @@ Please note that each row in the file consists of full conversations between a t
 - `uid` - unique identifier of the conversation
 
 ## Generating Your Own Dialogue Datasets from Textbooks!!
-### Step 1: Transfer your textbook into a json format with following format:
+### Step 1: Transfer your textbook into a json file with following format:
 ```json
 {
     "data": [
