@@ -68,8 +68,7 @@ Please note that each row in the file consists of full conversations between a t
                     "description": " the SI unit for electrical current"
                 }
             ]
-        },
-     ...   
+        }   
     ]
 }
 ```
