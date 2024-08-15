@@ -29,6 +29,62 @@ Please note that each row in the file consists of full conversations between a t
 - `qas` - list of question and answer pairs
 - `uid` - unique identifier of the conversation
 
+## Generating Your Own Dialogue Datasets from Textbooks!!
+### Step 1: Transfer your textbook into a json format with following format:
+```json
+{
+    "data": [
+        {
+            "title": "1-1-physics-definitions-and-applications",
+            "paragraphs": [
+                {
+                    "context": "Think about all of the technological devices that you use on a regular basis. Computers, wireless internet, smart phones, tablets, global positioning system (GPS), MP3 players, and satellite radio might come to mind.",
+                    "id": "C_613901_1"
+                }
+            ],
+            "section_title": "What Physics Is",
+            "chapter_learning_objectives": [
+                "Describe the definition, aims, and branches of physics",
+                "Describe and distinguish classical physics from modern physics and describe the importance of relativity, quantum mechanics, and relativistic quantum mechanics in modern physics",
+                "Describe how aspects of physics are used in other sciences (e.g., biology, chemistry, geology, etc.) as well as in everyday technology"
+            ],
+            "chapter_summary": "Physics is ...",
+            "chapter_introduction": "",
+            "bold_terms": [
+                "physics",
+                "atoms",
+                "quantum mechanics",
+                "classical physics",
+                "modern physics",
+                "theory of relativity"
+            ],
+            "chapter_concept": [
+                {
+                    "name": "accuracy ",
+                    "description": "how close a measurement is to the correct value for that measurement"
+                },
+                {
+                    "name": "ampere",
+                    "description": " the SI unit for electrical current"
+                }
+            ]
+        },
+     ...   
+    ]
+}
+```
+### Step 2: Install dependency
+```python
+pip3 install ./requirements.txt
+```
+
+### Dialogue generation
+Change the input path within Persona_high_info_final.py and run following:
+
+```python
+python3 ./Persona_models/Persona_high_info_final.py
+```
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
