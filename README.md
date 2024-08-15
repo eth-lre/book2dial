@@ -73,14 +73,29 @@ Please note that each row in the file consists of full conversations between a t
 }
 ```
 ### Step 2: Install dependency
-```python
+```bash
+cd book2dial
 pip3 install ./requirements.txt
 ```
 
 ### Step 3: Dialogue generation
-Change the input path within Persona_high_info_final.py and run following:
+Change the input path within ./Persona_models/Persona_high_info_final.py file:
 
 ```python
+# Load the data
+    with open("<your textbook json file path>", "r") as file:
+        data = json.load(file)
+```
+
+### Step 4: Set your open ai key into environment through:
+```bash
+touch ./Persona_models/.env.local 
+export OPENAI_API_KEY=<your openai key>
+```
+
+### Step 5: Run the following command in terminal:
+
+```bash
 python3 ./Persona_models/Persona_high_info_final.py
 ```
 
