@@ -75,7 +75,8 @@ Please note that each row in the file consists of full conversations between a t
 ### Step 2: Install dependency
 ```bash
 cd book2dial
-pip3 install ./requirements.txt
+pip3 install -r requirements.txt
+
 ```
 
 ### Step 3: Dialogue generation
