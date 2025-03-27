@@ -17,7 +17,8 @@ In this project, we propose a framework for generating synthetic teacher-student
 Please cite the following:
 > Junling Wang, Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, and Mrinmaya Sachan. 2024. Book2Dial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots. In Findings of the Association for Computational Linguistics ACL 2024, pages 9707–9731, Bangkok, Thailand and virtual meeting. Association for Computational Linguistics.
 
-> @inproceedings{wang-etal-2024-book2dial,
+```bibtex
+@inproceedings{wang-etal-2024-book2dial,
     title = "{B}ook2{D}ial: Generating Teacher Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots",
     author = "Wang, Junling  and
       Macina, Jakub  and
@@ -37,6 +38,7 @@ Please cite the following:
     pages = "9707--9731",
     abstract = "Educational chatbots are a promising tool for assisting student learning. However, the development of effective chatbots in education has been challenging, as high-quality data is seldom available in this domain. In this paper, we propose a framework for generating synthetic teacher-student interactions grounded in a set of textbooks. Our approaches capture a key aspect of learning interactions where curious students with partial knowledge interactively ask teachers questions about the material in the textbook. We highlight various quality criteria that such dialogues must fulfill and compare several approaches relying on either prompting or finetuning large language models according to these criteria. We use the synthetic dialogues to train educational chatbots and show the benefits of further fine-tuning in educational domains. However, careful human evaluation shows that our best data synthesis method still suffers from hallucinations and tends to reiterate information from previous conversations. Our findings offer insights for future efforts in synthesizing conversational data that strikes a balance between size and quality. We will open-source our data and code."
 }
+```
 
 # Dataset
 The dataset is available in the data folder. It contains 889 conversations generated from the Persona(High Info) model. We will release more data later. 
